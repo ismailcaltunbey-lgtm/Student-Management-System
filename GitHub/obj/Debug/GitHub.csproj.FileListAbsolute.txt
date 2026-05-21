@@ -1,0 +1,7 @@
+C:\Users\İsmail Can Altunbey\source\repos\GitHub\GitHub\bin\Debug\GitHub.exe.config
+C:\Users\İsmail Can Altunbey\source\repos\GitHub\GitHub\bin\Debug\GitHub.exe
+C:\Users\İsmail Can Altunbey\source\repos\GitHub\GitHub\bin\Debug\GitHub.pdb
+C:\Users\İsmail Can Altunbey\source\repos\GitHub\GitHub\obj\Debug\GitHub.csproj.AssemblyReference.cache
+C:\Users\İsmail Can Altunbey\source\repos\GitHub\GitHub\obj\Debug\GitHub.csproj.CoreCompileInputs.cache
+C:\Users\İsmail Can Altunbey\source\repos\GitHub\GitHub\obj\Debug\GitHub.exe
+C:\Users\İsmail Can Altunbey\source\repos\GitHub\GitHub\obj\Debug\GitHub.pdb
